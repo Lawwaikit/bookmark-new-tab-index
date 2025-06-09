@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1726627290750,
+    "addDate": 1742623550362,
     "title": "书签栏",
     "children": [
       {
@@ -120,6 +120,27 @@
             "title": "JETBRA.IN CHECKER | IPFS",
             "icon": "https://logo.clearbit.com/3.jetbra.in",
             "url": "https://3.jetbra.in/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735987720631,
+            "title": "命令永久激活Win11,Win10，Office",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/jopny/p/window_office_onekey_activate_free.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1734511924037,
+            "title": "LangPDF - Empowering PDFs with Intelligent Language Processing",
+            "icon": "https://logo.clearbit.com/www.langpdf.com",
+            "url": "https://www.langpdf.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1746694531552,
+            "title": "果核剥壳 - 互联网的净土",
+            "icon": "https://logo.clearbit.com/www.ghxi.com",
+            "url": "https://www.ghxi.com/"
           }
         ]
       },
@@ -129,60 +150,67 @@
         "title": "学习",
         "children": [
           {
-            "type": "link",
-            "addDate": 1560851312906,
-            "title": "实习僧",
-            "icon": "https://logo.clearbit.com/www.shixiseng.com",
-            "url": "https://www.shixiseng.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1560691430856,
-            "title": "首页 - 阿里巴巴集团招聘",
-            "icon": "https://logo.clearbit.com/job.alibaba.com",
-            "url": "https://job.alibaba.com/zhaopin/index.htm"
-          },
-          {
-            "type": "link",
-            "addDate": 1560691250978,
-            "title": "腾讯校园招聘",
-            "icon": "https://logo.clearbit.com/join.qq.com",
-            "url": "https://join.qq.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1560441063147,
-            "title": "加入字节跳动-招聘",
-            "icon": "https://logo.clearbit.com/job.bytedance.com",
-            "url": "https://job.bytedance.com/campus/position"
-          },
-          {
-            "type": "link",
-            "addDate": 1561808988662,
-            "title": "拉勾网-专业的互联网招聘平台",
-            "icon": "https://logo.clearbit.com/www.lagou.com",
-            "url": "https://www.lagou.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1561808993100,
-            "title": "BOSS直聘-互联网招聘神器！",
-            "icon": "https://logo.clearbit.com/www.zhipin.com",
-            "url": "https://www.zhipin.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1567648072970,
-            "title": "招聘岗位|阿里巴巴校园招聘|新世界 由你造",
-            "icon": "https://logo.clearbit.com/campus.alibaba.com",
-            "url": "https://campus.alibaba.com/positionList.htm"
-          },
-          {
-            "type": "link",
-            "addDate": 1567231790078,
-            "title": "我的网易招聘",
-            "icon": "https://logo.clearbit.com/gzgame.campus.163.com",
-            "url": "http://gzgame.campus.163.com/applyJob.do?lan=zh&rmsFrom=null&source=null"
+            "type": "folder",
+            "addDate": 1746690219152,
+            "title": "招聘网站",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1560851312906,
+                "title": "实习僧",
+                "icon": "https://logo.clearbit.com/www.shixiseng.com",
+                "url": "https://www.shixiseng.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1560691430856,
+                "title": "首页 - 阿里巴巴集团招聘",
+                "icon": "https://logo.clearbit.com/job.alibaba.com",
+                "url": "https://job.alibaba.com/zhaopin/index.htm"
+              },
+              {
+                "type": "link",
+                "addDate": 1560691250978,
+                "title": "腾讯校园招聘",
+                "icon": "https://logo.clearbit.com/join.qq.com",
+                "url": "https://join.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1560441063147,
+                "title": "加入字节跳动-招聘",
+                "icon": "https://logo.clearbit.com/job.bytedance.com",
+                "url": "https://job.bytedance.com/campus/position"
+              },
+              {
+                "type": "link",
+                "addDate": 1561808988662,
+                "title": "拉勾网-专业的互联网招聘平台",
+                "icon": "https://logo.clearbit.com/www.lagou.com",
+                "url": "https://www.lagou.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1561808993100,
+                "title": "BOSS直聘-互联网招聘神器！",
+                "icon": "https://logo.clearbit.com/www.zhipin.com",
+                "url": "https://www.zhipin.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1567648072970,
+                "title": "招聘岗位|阿里巴巴校园招聘|新世界 由你造",
+                "icon": "https://logo.clearbit.com/campus.alibaba.com",
+                "url": "https://campus.alibaba.com/positionList.htm"
+              },
+              {
+                "type": "link",
+                "addDate": 1567231790078,
+                "title": "我的网易招聘",
+                "icon": "https://logo.clearbit.com/gzgame.campus.163.com",
+                "url": "http://gzgame.campus.163.com/applyJob.do?lan=zh&rmsFrom=null&source=null"
+              }
+            ]
           },
           {
             "type": "folder",
@@ -559,41 +587,13 @@
                 "title": "Docker Hub",
                 "icon": "https://logo.clearbit.com/hub.docker.com",
                 "url": "https://hub.docker.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1581433981768,
-                "title": "Maven Repository",
-                "icon": "https://logo.clearbit.com/mvnrepository.com",
-                "url": "https://mvnrepository.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1581433994910,
-                "title": "Spring",
-                "icon": "https://logo.clearbit.com/spring.io",
-                "url": "https://spring.io/"
-              },
-              {
-                "type": "link",
-                "addDate": 1581434009469,
-                "title": "Spring Boot",
-                "icon": "https://logo.clearbit.com/spring.io",
-                "url": "https://spring.io/projects/spring-boot/"
-              },
-              {
-                "type": "link",
-                "addDate": 1581935495333,
-                "title": "Java 教程 | 菜鸟教程",
-                "icon": "https://logo.clearbit.com/www.runoob.com",
-                "url": "https://www.runoob.com/java/java-tutorial.html"
               }
             ]
           },
           {
             "type": "folder",
             "addDate": 1577707017742,
-            "title": "开源项目",
+            "title": "项目收藏",
             "children": [
               {
                 "type": "link",
@@ -892,10 +892,17 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1714289701000,
-            "title": "ChatGPTPlus.cn",
-            "icon": "https://logo.clearbit.com/chat.chatgptplus.cn",
-            "url": "https://chat.chatgptplus.cn/"
+            "addDate": 1738851227479,
+            "title": "DeepSeek",
+            "icon": "https://logo.clearbit.com/chat.deepseek.com",
+            "url": "https://chat.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1748248013392,
+            "title": "腾讯元宝 - 轻松工作 多点生活",
+            "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+            "url": "https://yuanbao.tencent.com/"
           },
           {
             "type": "link",
@@ -903,6 +910,20 @@
             "title": "ChatGPT",
             "icon": "https://logo.clearbit.com/chatgpt.com",
             "url": "https://chatgpt.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714289701000,
+            "title": "ChatGPTPlus.cn",
+            "icon": "https://logo.clearbit.com/chat.chatgptplus.cn",
+            "url": "https://chat.chatgptplus.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1743501835868,
+            "title": "Kimi - 会推理解析，能深度思考的AI助手",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/?ref=niceshare.site"
           }
         ]
       },
@@ -952,8 +973,36 @@
             "title": "ByWave",
             "icon": "https://logo.clearbit.com/user.by.ltd",
             "url": "https://user.by.ltd/clientarea.php?action=productdetails&id=359660"
+          },
+          {
+            "type": "link",
+            "addDate": 1746692118090,
+            "title": "CordCloud",
+            "icon": "https://logo.clearbit.com/www.cordc.net",
+            "url": "https://www.cordc.net/user/shop"
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1746690304279,
+        "title": "政务",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1737620250629,
+            "title": "深圳市社会保险基金管理局-个人网上服务",
+            "icon": "https://logo.clearbit.com/sipub.sz.gov.cn",
+            "url": "https://sipub.sz.gov.cn/hspms/"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1734505307378,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/lawwaikit.github.io",
+        "url": "https://lawwaikit.github.io/bookmark-new-tab-index/"
       },
       {
         "type": "link",
@@ -975,6 +1024,20 @@
         "title": "数字居民社区",
         "icon": "https://logo.clearbit.com/dr.leviding.com",
         "url": "https://dr.leviding.com/docs/about"
+      },
+      {
+        "type": "link",
+        "addDate": 1734511492174,
+        "title": "wallstreetbets",
+        "icon": "https://logo.clearbit.com/www.reddit.com",
+        "url": "https://www.reddit.com/r/wallstreetbets/"
+      },
+      {
+        "type": "link",
+        "addDate": 1747294956238,
+        "title": "Go 语言之旅",
+        "icon": "https://logo.clearbit.com/tour.go-zh.org",
+        "url": "https://tour.go-zh.org/list"
       }
     ]
   }
